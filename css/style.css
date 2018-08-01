@@ -1,10 +1,16 @@
 .house{
+  margin-top: 50px;
   font-weight: bold;
+  margin-bottom: 6px;
 }
 .home{
+  margin-top: 50px;
   font-style: italic;
+  margin-bottom: 6px;
 }
 .aboutme{
+  margin-top: 50px;
+  margin-bottom: 6px;
   font-family: monospace;
   background-color: lightgreen;
   color: blue;
