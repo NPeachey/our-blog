@@ -1,0 +1,17 @@
+.house{
+  font-weight: bold;
+}
+.home{
+  font-style: italic;
+}
+.aboutme{
+  font-family: monospace;
+  background-color: lightgreen;
+  color: blue;
+}
+span.house {
+  font-weight: normal;
+}
+span.home {
+  font-style: normal;
+}
